@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RedZone]]></title>
+        <description><![CDATA[RedZone]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 13:41:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>RedZone ist die neue Anlaufstelle für alle Football-Verrückten. Für alle die genug haben von verweichlichten Sportarten und Männern dabei zuschauen wollen, wie sie sich gegenseitig die Köpfe einrennen. Für alle, die bei einem Ei nicht zuerst an ihr Frühstück denken; für die ein Safety nichts mit schlechten Gerüchen zu tun hat. RedZone bedeutet unterhalsame Artikel auf hohem Niveau für alle "Cheeseheads" und Anhänger der "Raider Nation", für hardcore "Big Blue" Fans oder Follower von "Gang Green". </p>]]></description>
+            <link>undefinedredzone-ist-die-neue-anlaufstelle-fur-alle-football-verruckt/index.html</link>
+            <guid isPermaLink="false">1c316cd8-b015-48e4-b1d0-920414501430</guid>
+            <pubDate>Tue, 31 May 2016 13:41:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
